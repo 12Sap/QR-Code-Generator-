@@ -1,3 +1,5 @@
+alert('Use Desktop Mode');
+
 let inp = document.querySelector('.inp');
 
 let srchBtn = document.querySelector('.searchBtn');
