@@ -1,3 +1,5 @@
+!!Note : Use Desktop Mode if not!!
+
 QR Code Generator
 
 This project is a QR Code Generator web application that allows users to enter a text or URL, and generate a downloadable QR code. It utilizes HTML, CSS, and JavaScript for the frontend and integrates the QuickChart API to fetch QR codes.
